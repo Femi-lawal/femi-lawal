@@ -4,7 +4,7 @@ I am a Software Engineer specializing in Web Development and Cloud Technology.
 I am an avid learner and have worked on projects with companies across the globe.
 
 - 🌱 I’m currently learning CSS (Does anyone truly ever know CSS?)
-- ⚡ Fun fact: I love space explortion content
+- ⚡ Fun fact: I love space exploration content
 <!--
 **Femi-lawal/femi-lawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
